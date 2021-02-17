@@ -1,2 +1,2 @@
-# freelance-web-developer.website
-Freelance Web Developer Website
+# Freelance Web Developer .website
+Freelance Web Developer Website by Iain White
